@@ -1,4 +1,4 @@
-# Intervention Analysis for UKDriverDeaths Dataset
+# Intervention Analysis of UKDriverDeaths Dataset
 
 This project investigates the effect of the seatbelt law implementation on the number of car drivers killed or seriously injured in the UK, utilizing a time-series analysis approach with intervention analysis.
 
