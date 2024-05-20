@@ -6,7 +6,7 @@ This project investigates the effect of the seatbelt law implementation on the n
 This analysis uses the UKDriverDeaths dataset, covering data from January 1969 through December 1984, known as the "seatbelt data". This dataset was pivotal in evaluating the effectiveness of the compulsory seatbelt legislation introduced on January 31, 1983. The aim is to assess the impact of this intervention on reducing fatalities.
 
 ## Data
-The dataset consists of monthly counts of car drivers killed or seriously injured in the UK. It shows clear trends and seasonality, which were addressed to achieve stationarity and improve forecasting accuracy.
+The [UKDriverDeaths Dataset](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/UKDriverDeaths) consists of monthly counts of car drivers killed or seriously injured in the UK. It shows clear trends and seasonality, which were addressed to achieve stationarity and improve forecasting accuracy.
 
 ## Exploratory Data Analysis (EDA)
 - **Trend Analysis**: The data exhibit a long-term decrease in driver deaths, potentially influenced by various factors, including improvements in road safety and vehicle technology.
